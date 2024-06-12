@@ -106,7 +106,7 @@ export default {
           "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
           "corpro": "Horus",
           "frame": "Balor",
-          "mech": "Type - Worst Beat"
+          "mech": "A Heart Full of Fire"
         },
         {
           "callsign": "Kal",
@@ -142,11 +142,11 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
+        "planet": "Cressidium",
+        "year": "5016u",
+        "system": "Montaine-2",
+        "gate": "Adams",
+        "ring": "Cascade-Line",
         "headerTitle": "Mirrorsmoke",
         "headerSubtitle": "Mercenary Company",
         "subheaderTitle": "Crisis Response",

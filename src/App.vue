@@ -147,10 +147,10 @@ export default {
         "system": "Montaine-2",
         "gate": "Adams",
         "ring": "Cascade-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
+        "headerTitle": "UNION",
+        "headerSubtitle": "Auxillary",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderSubtitle": "Whiskey-Tango-Foxtrot",
       },
       "options":{
         "eventsMarkdownPerMission": true

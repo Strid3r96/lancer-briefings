@@ -134,7 +134,7 @@ export default {
         "headerTitle": "UNION",
         "headerSubtitle": "Auxillary",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Golf-Tango-Foxtrot-Oscar",
+        "subheaderSubtitle": "Kilo-Foxtrot-2",
       },
       "options":{
         "eventsMarkdownPerMission": true

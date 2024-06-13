@@ -103,6 +103,16 @@ export default {
           "name": "Daybreak",
           "status": "success"
         },
+         {
+          "slug": "003",
+          "name": "Cleanup Crew",
+          "status": "partial-success"
+        },
+         {
+          "slug": "004",
+          "name": "Rude Awakening",
+          "status": "start"
+        },
       ],
       "pilots": [
         {

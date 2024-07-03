@@ -98,7 +98,7 @@ export default {
           "name": "The Drop",
           "status": "success"
         },
-        {
+       return {
       "mission_slug": "002",
       "current_md": "",
       "events": "",

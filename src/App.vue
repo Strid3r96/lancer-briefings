@@ -98,6 +98,16 @@ export default {
           "name": "The Drop",
           "status": "success"
         },
+        {
+      "mission_slug": "002",
+      "current_md": "",
+      "events": "",
+      "missions": [
+        {
+          "slug": "002",
+          "name": "Daybreak",
+          "status": "start"
+        },
       ],
       "pilots": [
         {

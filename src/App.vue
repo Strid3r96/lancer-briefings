@@ -144,7 +144,7 @@ export default {
         "headerTitle": "UNION",
         "headerSubtitle": "Auxillary",
         "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Kilo-Foxtrot-2",
+        "subheaderSubtitle": "Task Force Indigo",
       },
       "options":{
         "eventsMarkdownPerMission": true

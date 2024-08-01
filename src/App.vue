@@ -116,8 +116,8 @@ export default {
         },
          {
           "slug": "005",
-          "name": "3 Months Later",
-          "status": "success"
+          "name": "The Typhon",
+          "status": "start"
         },
       ],
       "pilots": [

@@ -112,7 +112,12 @@ export default {
            {
           "slug": "004",
           "name": "3 Months Later",
-          "status": "start"
+          "status": "success"
+        },
+         {
+          "slug": "005",
+          "name": "3 Months Later",
+          "status": "success"
         },
       ],
       "pilots": [

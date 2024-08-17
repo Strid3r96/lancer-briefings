@@ -110,7 +110,7 @@ export default {
         },
          {
           "slug": "004",
-          "name": "Rude Awakening",
+          "name": "A Day of Firsts",
           "status": "start"
         },
       ],

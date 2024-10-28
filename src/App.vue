@@ -111,6 +111,11 @@ export default {
          {
           "slug": "004",
           "name": "A Day of Firsts",
+          "status": "success"
+        },
+          {
+          "slug": "005",
+          "name": "The Typhon",
           "status": "start"
         },
       ],
